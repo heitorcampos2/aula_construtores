@@ -17,7 +17,7 @@ public class TestaAluno {
         //a1.setMatricula("007");
         
         System.out.println("Nome: "+a1.getNome());
-        System.out.println("MAtricula: "+a1.getMatricula());
+        System.out.println("Matricula: "+a1.getMatricula());
         
       
         
